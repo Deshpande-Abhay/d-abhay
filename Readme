@@ -1,3 +1,4 @@
 This dataset is obtained from UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Carbon+Nanotubes).
-Simple Linear Regression, Multiple Linear Regression and Support Vector Regression is used to find the position of carbon atom in 3 dimentional space.
+Simple Linear Regression (SLR), Multiple Linear Regression (MLR) and Support Vector Regression (SVR) is used to find the position of carbon atom in 3 dimentional space.
 Python 3 (Jupyter) environment is used for coding.
+Only x co-ordinate is being predicted using SLR, MLR and SVR. Same procedure can be used to predict y and z co-ordinate of carbon atom in nanotube
